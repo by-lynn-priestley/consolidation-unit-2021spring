@@ -1,12 +1,12 @@
 | Asset Needed                            | Solution                             | Used? |
 | --------------------------------------- | ------------------------------------ | ----- |
-| Empty pill capsule                      | Free download via Shutterstock trial |       |
-| Various spoon images                    | Cut out off Unsplash images          |       |
+| Empty pill capsule                      | Free download via Shutterstock trial | Y     |
+| Various spoon images                    | Cut out off Unsplash images          | Y     |
 | Hand holding pill OR teeth holding pill | Unsplash                             |       |
 
-*Running Assets List:*
+*Running Assets List:* (numbered assets have been put into .psd file)
 
--[] Pill Capsule Image
+1. Pill Capsule Image
 
 (Annotations) Transparent half to be filled with spoons
 
@@ -20,7 +20,7 @@
               title: "Half Transparent Capsule Pill. Realistic 3D Mockup Isolated on White Background Close-Up."
               user: Viktory Viktor
 
--[] Flat lay of silver spoons
+2. Flat lay of silver spoons
 
 (Annotations) Spoons to fill pill capsule with - will start with this one and see how many additional spoons I need
 
@@ -36,7 +36,7 @@
               title: "flat lay photography of silver spoons photo – Free Spoon Image on Unsplash" (title taken from HTML head)
               user: Joanna Kosinska
 
--[] Spoon With Orange/White Background
+-[] Spoon With Orange/White Background - NOT USED
 
 (Annotations) One spoon to fill pill capsule with
 
@@ -52,7 +52,7 @@
               title: "Free Pottery Image on Unsplash" (title taken from HTML head)
               user: lucas mendes
 
--[] Spoon With Cereal (slight iridescent tones)
+3. Spoon With Cereal (slight iridescent tones)
 
 (Annotations) One spoon to fill pill capsule with
 
@@ -68,7 +68,7 @@
               title: "white ceramic bowl with yellow rice photo – Free Cutlery Image on Unsplash" (title taken from HTML head)
               user: Ghis
 
--[] Another Spoon With Cereal (more rusted tones)
+4. Another Spoon With Cereal (more rusted tones)
 
 (Annotations) One spoon to fill pill capsule with
 
@@ -84,7 +84,7 @@
               title: "white ceramic bowl with soup photo – Free Image on Unsplash" (title taken from HTML head)
               user: engin akyurt
 
--[] Spoon (with coffee)
+5. Spoon (with coffee)
 
 (Annotations) One spoon to fill pill capsule with
 
@@ -100,7 +100,7 @@
               title: "coffee in white ceramic mug near teaspoon photo – Free Spoon Image on Unsplash" (title taken from HTML head)
               user: Hans Vivek
 
--[] Spoon (with fork and knife, blank background)
+-[] Spoon (with fork and knife, blank background) - NOT USED
 
 (Annotations) One spoon to fill pill capsule with
 
