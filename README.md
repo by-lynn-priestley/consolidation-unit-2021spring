@@ -1,7 +1,7 @@
 # Consolidation Unit Project
 (for the final unit of ENGCMP 0610 - Composing Digital Media)
 
-**Proposal:** For the final project, I would like to expand on my Photoshop skills working with photos (since I worked with graphic icons for the visual rhetoric unit). I want to make a visual based on "The Spoon Theory" written by Christine Miserandino and the surrounding chronic illness community. At this point, I plan to work solo for the project. With regard to what I already know versus what I need to know, I know basic concepts of PS like layering, selection, opacity, etc. that will definetely be needed for this project. I will also need to expand my skillset to do things like use underlying layers to alter the above layer's color.
+**Proposal:** For the final project, I would like to expand on my Photoshop skills working with photos (since I worked with graphic icons for the visual rhetoric unit). I want to make a visual based on "The Spoon Theory" written by Christine Miserandino and the surrounding chronic illness community. At this point, I plan to work solo for the project. With regard to what I already know versus what I need to know, I know basic concepts of PS like layering, selection, opacity, etc. that will definitely be needed for this project. I will also need to expand my skillset to do things like use underlying layers to alter the above layer's color.
 
 *Task List:*
 - source assets
