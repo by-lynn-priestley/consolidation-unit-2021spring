@@ -3,8 +3,9 @@
 
 *Repository Navigation:*
 1. **General** - ASSETS.md and README.md can be found in the main repository. Progress screenshots are in the progress-screenshots folder.
+    *(The progress screenshots are tagged with the version they apply to. "v1.5" refers to a direction I experimented with, and learned about new tools during the process, but ultimately decided not to include as a finalized piece.)*
 2. **"The Spoonie Pill"** - A .psd and .png file of the pill-and-spoon image combination can be found in the version1 folder.
-3. **"The Spoonie Bites Back"** - A .psd and .png file of the merged pill-spoon asset combined with the teeth image asset can be found in the version2 folder. 
+3. **"The Spoonie PRxESS"** - The version2 folder will hold a .psd and .png file of the stretch-goal project, which is a mock magazine cover
 
 **Proposal:** For the final project, I would like to expand on my Photoshop skills working with photos (since I worked with graphic icons for the visual rhetoric unit). I want to make a visual based on "The Spoon Theory" written by Christine Miserandino (source: https://butyoudontlooksick.com/articles/written-by-christine/the-spoon-theory/) and the surrounding chronic illness community. At this point, I plan to work solo for the project. With regard to what I already know versus what I need to know, I know basic concepts of PS like layering, selection, opacity, etc. that will definitely be needed for this project. I will also need to expand my skillset to do things like use underlying layers to alter the above layer's color.
 

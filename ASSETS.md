@@ -3,7 +3,7 @@
 | Empty pill capsule   | Free download via Shutterstock trial |
 | Various spoon images | Cut out off Unsplash images          |
 | Hand holding pill    | Unsplash                             |
-| Teeth holding pill   | Unsplash                             | 
+| Teeth holding pill   | Unsplash                             |
 
 *Running Assets List:* (numbered assets have been put into .psd file)
 
@@ -85,7 +85,7 @@
               title: "coffee in white ceramic mug near teaspoon photo – Free Spoon Image on Unsplash" (title taken from HTML head)
               user: Hans Vivek
 
-6. Teeth Holding Pill Image Option - USED IN VERSION 2 OF PROJECT
+6. Teeth Holding Pill Image Option - USED IN v1.5 OF PROJECT (seen in the "spoonies bite back" screenshots)
 
 (Annotations) One direction to go with combined pill-spoon image (for a tone to kick back at the disability-weakness stereotype)
 
