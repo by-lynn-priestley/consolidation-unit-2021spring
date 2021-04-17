@@ -101,7 +101,7 @@
               title: "person with white and gold lipstick photo – Free Image on Unsplash" (title taken from HTML head)
               user: fotografierende
 
--[] Hand Holding Pill Image Option
+7. Hand Holding Pill Image Option
 
 (Annotations) One direction to go with combined pill-spoon image - would make background a pastel version of the color I chose for the solid half of the pill (maybe purple for fibromyalgia ribbon color? or orange for pill bottle color?)
 
