@@ -5,7 +5,7 @@
 | Hand holding pill    | Unsplash                             |
 | Teeth holding pill   | Unsplash                             |
 
-*Running Assets List:* (numbered assets have been put into .psd file)
+*Final Assets List:* 
 
 1. Pill Capsule Image
 

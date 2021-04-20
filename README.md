@@ -8,4 +8,4 @@ These visuals are inspired by "The Spoon Theory" written by Christine Miserandin
 1. **General** - ASSETS.md and README.md can be found in the main repository. Progress screenshots are in the progress-screenshots folder.
     *(The progress screenshots are tagged with the version they apply to. "v1.5" refers to a direction I experimented with, and learned about new tools during the process, but ultimately decided not to include as a finalized piece.)*
 2. **"The Spoonie Pill"** - A .psd and .png file of the pill-and-spoon image combination can be found in the version1 folder.
-3. **"The Spoonie PRxESS"** - The version2 folder will hold a .psd and .png file of the stretch-goal project, which is a mock magazine cover
+3. **"The Spoonie PRxESS"** - The version2 folder holds a .psd and .png file of the stretch-goal project, which is a mock magazine cover.
